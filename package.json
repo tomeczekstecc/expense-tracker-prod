@@ -1,7 +1,6 @@
 {
   "name": "expense-tracker-react",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server",
@@ -22,5 +21,14 @@
   "devDependencies": {
     "concurrently": "^5.1.0",
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomeczekstecc/expense-tracker-prod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomeczekstecc/expense-tracker-prod/issues"
+  },
+  "homepage": "https://github.com/tomeczekstecc/expense-tracker-prod#readme",
+  "description": ""
 }
